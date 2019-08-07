@@ -1,0 +1,22 @@
+{
+  "name": "wordguess-cli-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcabs14/WordGuess-CLI-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jcabs14/WordGuess-CLI-Game/issues"
+  },
+  "homepage": "https://github.com/Jcabs14/WordGuess-CLI-Game#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
